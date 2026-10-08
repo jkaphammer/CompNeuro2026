@@ -5,3 +5,5 @@ All final submissions on main branch
 HW1 - Completed 9/9/2026
 
 HW2 - Completed 9/23/2026
+
+HW3 - Completed 10/7/2026
