@@ -11,3 +11,5 @@ HW3 - Completed 10/7/2026
 HW4 - Completed 10/21/2026
 
 HW5 - Completed 11/4/2026
+
+HW6 - Completed 11/18/2026
